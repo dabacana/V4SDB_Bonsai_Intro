@@ -29,7 +29,7 @@ By the end of the workshop, participants will be familiar with Bonsai as a tool 
 - Download and install [Bonsai](https://bonsai-rx.org/docs/articles/installation.html).
 - Install the Starter Pack from the Package Manager.
 - Check out the Bonsai Gallery and make sure the example workflows work on your station.
-- Download the video file for this workshop. 
+- Download the [video file](https://github.com/dabacana/V4SDB_Bonsai_Intro/blob/main/mouse_arena.avi) for this workshop. 
 
 ## Workshop step by step
 
