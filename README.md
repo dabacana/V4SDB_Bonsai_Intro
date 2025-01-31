@@ -47,5 +47,6 @@ By the end of the workshop, participants will be familiar with Bonsai as a tool 
 - [Github Forum](https://github.com/orgs/bonsai-rx/discussions)
 - [Public Discord Server](https://discord.com/invite/QcthRPuZnr)
 - [Learning Resources](https://bonsai-rx.org/learn/)
-
+  
+## References
 Lopes, G., Bonacchi, N., Frazão, J., Neto, J. P., Atallah, B. V., Soares, S., ... & Kampff, A. R. (2015). Bonsai: an event-based framework for processing and controlling data streams. Frontiers in neuroinformatics, 9, 7.  https://doi.org/10.3389/fninf.2015.00007
