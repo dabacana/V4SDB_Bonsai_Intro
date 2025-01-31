@@ -7,7 +7,7 @@ Materials for the Bonsai introduction and tutorial
 **Instructor:**<br>
 Adriana Nagy-Dabacan<br>
 Transylvanian Institute of Neuroscience<br>
-dabacan@tins.ro
+dabacan@tins.ro<br>
 See GitHub link [here](https://github.com/dabacana/V4SDB_Bonsai_Intro).
 
 ## Workshop Overview
