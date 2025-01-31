@@ -8,6 +8,7 @@ Materials for the Bonsai introduction and tutorial
 Adriana Nagy-Dabacan<br>
 Transylvanian Institute of Neuroscience<br>
 dabacan@tins.ro
+See GitHub link [here](https://github.com/dabacana/V4SDB_Bonsai_Intro).
 
 ## Workshop Overview
 
@@ -16,7 +17,7 @@ Then, we will get familiar with this tool by implementing a simple workflow comb
 
 By the end of the workshop, participants will be familiar with Bonsai as a tool for behavioral experimental control and will understand its basic principles of operation. They will have a good source of documentation and will be able to join the community for further support. 
 
-[slides (to be updated)]()
+[slides](https://github.com/dabacana/V4SDB_Bonsai_Intro/blob/main/Bonsai%20Behavior.pptx)
 
 ## Software
 [**Bonsai**](https://bonsai-rx.org/docs/articles/installation.html): <br>
